@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi 👋 I'm Nirmal
 
-<!--
-**nirmal-k-r/nirmal-k-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A seasoned lead software engineer from Mauritius with 5 years of experience in the IT industry.
+------------ 
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmal-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal-k-r" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- [x] full-stack web development 
+- [x] mobile application development 
+- [x] API development 
+- [x] machine learning 
+- [x] natural language processing 
+- [x] data mining and analytics 
+
+> Innovation distinguishes between a leader and a follower. - `Steve Jobs`
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nirmal-rampersand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-rampersand" height="30" width="40" /></a>
+</p>
