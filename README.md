@@ -1,9 +1,9 @@
 # Hi 👋 I'm Nirmal
 
 ### A seasoned lead software engineer from Mauritius with 5 years of experience in the IT industry.
------------- 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmal-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal-k-r" /> </p>
+
+------------ 
 
 ### Experience
 - [x] full-stack web development 
