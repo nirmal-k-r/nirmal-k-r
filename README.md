@@ -1,17 +1,30 @@
 # Hi 👋 I'm Nirmal
 
-### A seasoned lead software engineer from Mauritius with 5 years of experience in the IT industry.
+### A seasoned lead software engineer from Mauritius with extensive experience in the IT industry.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmal-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal-k-r" /> </p>
 
 ------------ 
 
 ### Experience
-- [x] full-stack web development 
-- [x] mobile application development 
-- [x] API development 
-- [x] machine learning 
-- [x] natural language processing 
-- [x] data mining and analytics 
+- [x] AI & Machine learning
+- [x] Data analytics
+- [x] CI & Optimisation 
+- [x] Natural language processing
+- [x] Large language models
+- [x] Full-stack web development 
+- [x] API development
+- [x] IoT and automation 
+
+### Languages
+ - Python
+ - JS
+ - Php
+ - C++
+ - C#
+ - .NET
+ - C
+ - Java
+ - Ruby
 
 > Innovation distinguishes between a leader and a follower. - `Steve Jobs`
 
